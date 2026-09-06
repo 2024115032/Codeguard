@@ -54,3 +54,8 @@ def webhook():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+password = "fake_password_123"
+api_key = "FAKE_API_KEY_123"
+print("Debug test")
+result = eval("2 + 2")
